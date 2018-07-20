@@ -810,10 +810,10 @@
   {
     "type": "container",
     "title": "Registry",
-    "description": "GLPI Docker image registry",
+    "description": "GLPI Docker",
     "categories": ["docker"],
     "platform": "linux",
-    "logo": "https://portainer.io/images/logos/registry.png",
+    "logo": "https://pbs.twimg.com/profile_images/794551678922092544/Ga09NfjH_400x400.jpg",
     "image": "ferreirarocha:9.3",
     "ports": [
       "80/tcp"

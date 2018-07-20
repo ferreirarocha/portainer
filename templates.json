@@ -27,6 +27,19 @@
   },
   {
     "type": "container",
+    "title": "GLPI Docker 9.2",
+    "description": "Helpdesk com GLPI 9.2 e Docker",
+    "categories": ["docker"],
+    "platform": "linux",
+    "logo": "https://pbs.twimg.com/profile_images/794551678922092544/Ga09NfjH_400x400.jpg",
+    "image": "ferreirarocha/glpi:9.2",
+    "ports": [
+      "80/tcp"
+    ],
+    "volumes": ["/var/www/html/glpi"]
+  },
+  {
+    "type": "container",
     "title": "Nginx",
     "description": "High performance web server",
     "categories": ["webserver"],

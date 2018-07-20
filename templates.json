@@ -809,8 +809,8 @@
   },
   {
     "type": "container",
-    "title": "Registry",
-    "description": "GLPI Docker",
+    "title": "GLPI Docker",
+    "description": "Helpdesk com GLPI e Docker",
     "categories": ["docker"],
     "platform": "linux",
     "logo": "https://pbs.twimg.com/profile_images/794551678922092544/Ga09NfjH_400x400.jpg",
